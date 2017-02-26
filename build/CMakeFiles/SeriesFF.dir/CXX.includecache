@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SeriesFF.h
+iostream
+-
+iomanip
+-
+
+/home/andrewbse/SeriesFF/src/main.cpp
+SeriesFF.h
+/home/andrewbse/SeriesFF/src/SeriesFF.h
+

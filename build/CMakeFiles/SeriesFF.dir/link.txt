@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/SeriesFF.dir/src/SeriesFF.cpp.o CMakeFiles/SeriesFF.dir/src/main.cpp.o  -o SeriesFF -rdynamic 
